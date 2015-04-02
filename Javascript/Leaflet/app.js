@@ -1,5 +1,5 @@
 // Limit the mapview to inside a polygon drawn by user using Leaflet
-// Receives a Leaflet layer and the map object
+// Receives a Leaflet draw event and the map object
 function adaptViewToPol(e, map) {
 
     var type = e.layerType,
