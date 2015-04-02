@@ -9,7 +9,8 @@
         - You need to install Python libraries: requests, python-linkedin
         - You need to define your Linkedin API_KEY, API_SECRET, USER_TOKEN, USER_SECRET and RETURN_URL as environment variables
         - You need to define your CartoDB API_KEY and TABLE as environment variables.
-        - Your CartoDB table needs to be PUBLIC.
+        - Your CartoDB table needs to be PUBLIC, and contain the fields 'name', 'industry' and 'living area'. 
+          Of course, you can change the code to fit your needs
 
     After running the script, you should be able to see all your geolocated Linkedin contacts in your CartoDB table,
 
