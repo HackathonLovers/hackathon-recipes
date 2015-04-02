@@ -1,5 +1,4 @@
-This script gets your contacts from your Linkedin account and put them in a CartoDB table. So, you can see
-your contacts in a map.
+This script gets your contacts from your Linkedin account and put them in a CartoDB table. So, you can see your contacts in a map.
 
 Take into account that:
     - You need to install Python libraries: requests, python-linkedin
