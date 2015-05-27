@@ -19,6 +19,6 @@ The only rules are:
 * You feel comfortable with the MIT license for your code.
 * You put your code in a folder, following the existing logic.
 
-So, just clone this repo and do a pull request, or send us your snippet to <hackathonlovers@gmail.com>.
+So, just clone this repo and do a pull request, or send us your snippet to <info@hackathonlovers.com>.
 
 Happy coding!
